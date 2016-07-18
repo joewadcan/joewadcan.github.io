@@ -1,5 +1,6 @@
 ---
 title: Joe Wadcan Home
+layout: default
 ---
 
 ## Hello World ! 
