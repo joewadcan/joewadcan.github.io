@@ -1,7 +1,7 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
-  favicon_image: /images/favicon.png
+  site_title: Joe Wadcan
+  site_tagline: Tic Tac Joe 🛶 
+  favicon_image: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/canoe_1f6f6.png
 
 header_settings:
   logo_image: 
@@ -23,14 +23,14 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/your@email.com'
+  form_action: 'https://formspree.io/joe@wadcan.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'https://twitter.com/joewadcan'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
@@ -54,7 +54,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/joewadcan/'
 
 color_settings:
   background_color: '#ffffff'
