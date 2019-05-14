@@ -9,4 +9,4 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ## Short Bio
 
-Co-founder at Bevy, UC Berkeley teacher & former Head of Business Development at GitHub.
+I'm currently CEO and co-founder of Bevy Inc. a calendar startup in San Francisco. Previously, I led Business Development at GitHub focused on growing the developer tool ecosystem. In addition, I enjoy teaching at UC Berkeley, investing in early stage startups and sampling all the best tacos in San Francisco. 🌮
