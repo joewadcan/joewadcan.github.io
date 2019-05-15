@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Tic Tac Joe 🛶 
+  site_title: Joe Wadcan 🛶 
   site_tagline: Startups, Tech, and Systems 
   favicon_image: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/canoe_1f6f6.png
 
@@ -10,10 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Blog'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
+    - title: 'Teaching'
+      url: '/teaching/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'

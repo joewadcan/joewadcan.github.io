@@ -1,5 +1,5 @@
 ---
-title: 'Demo Project'
+title: 'Intro to Code'
 subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
