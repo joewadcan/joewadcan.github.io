@@ -8,7 +8,7 @@ excerpt: >-
 ---
 Interviewing is one of the most archaic systems used in business. On its face, it seems quite logical - talk to prospective employees before they join your company. Great! But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers you still need to ask good questions to get real insights. 
 
-## Why most interview questions suck
+## Most interview questions suck
 
 When personally interviewing candidates, I always got the same slate of generic interview questions that had been committee approved. These questions made it efficient to compare responses across multiple candidates, or put it another way... it was optimized for the hiring coordinators (not the company or the candidate). The Technology industry does a slightly better job here with on-the-spot exercises. However well intentioned, these can range from the [inane](https://twitter.com/mxcl/status/608682016205344768) to the [absurd](https://www.cnbc.com/id/100371504).
 
@@ -20,6 +20,6 @@ These questions of course provide _some_ insight - how a candidate thinks throug
 
 
 
-## An exercise to gauge time management
+## Gauge time management
 
 Time management is an especially hard to judge in the compressed interview setting. Lots of companies opt for a
