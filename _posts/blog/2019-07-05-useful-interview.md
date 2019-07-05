@@ -8,12 +8,8 @@ excerpt: >-
 ---
 Blog post contents here. 
 
-
-
-\# Level 1 stuff
+# Level 1 stuff
 
 Test
 
-
-
-\## Level 2 stuff
+## Level 2 stuff
