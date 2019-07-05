@@ -8,7 +8,7 @@ collections:
     output: true
     permalink: /blog/:slug
   projects:
-    output: false
+    output: true
     permalink: /projects/:slug
 
 defaults:
