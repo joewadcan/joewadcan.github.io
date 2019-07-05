@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Joe Wadcan 🛶 
-  site_tagline: Startups, Tech, and Systems 
+  site_tagline: A new perspective on systems 
   favicon_image: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/canoe_1f6f6.png
 
 header_settings:
@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Blog'
       url: '/'
     - title: 'Teaching'
-      url: '/teaching/'
+      url: '/projects/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
