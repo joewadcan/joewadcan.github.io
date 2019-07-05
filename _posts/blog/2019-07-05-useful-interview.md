@@ -22,4 +22,14 @@ These questions of course provide _some_ insight - how a candidate thinks throug
 
 ## Gauge time management
 
-Time management is an especially hard to judge in the compressed interview setting. Lots of companies opt for a
+Time management is especially hard to judge in the compressed interview setting. Of course you can ask the candidate how they manage their time, but I've found a short exercise can provides much deeper insights. Here's the exercise I came up with and used at Citigroup and GitHub. 
+
+**Step 1: Create a time-bound scenario (a hypothetical 8 hour day)**
+
+**Step 2: Provide a list of required tasks with time estimates (totaling 16 hours)**
+
+**Step 3: Ask the candidate to choose and order tasks for their hypothetical day**
+
+**Step 4: Review candidate's rationale for their choices**
+
+****
