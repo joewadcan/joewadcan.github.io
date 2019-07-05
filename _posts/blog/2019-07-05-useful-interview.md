@@ -6,14 +6,22 @@ excerpt: >-
   For genuine insights into your interview candidates, ask them to do a time
   management exercise.
 ---
+# Why most interview questions suck
+
 Interviewing is one of the most archaic systems used in business. On its face, it seems quite logical - talk to prospective employees before they join your company. Great! But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers you still need to ask good questions to get real insights. When personally interviewing candidates, I always got the same slate of generic interview questions that had been committee approved. These questions made it efficient to compare responses across multiple candidates, or put it another way... it was optimized for the hiring coordinators (not the company or the candidate). The Technology industry does a slightly better job here with on-the-spot exercises. However well intentioned, these can range from the [inane](https://twitter.com/mxcl/status/608682016205344768) to the [absurd](https://www.cnbc.com/id/100371504).
 
 > "Say Peter Pepper Picked a Pickled Pepper and cross-sell a washing machine at the same time?" – Asked by MasterCard to a call center candidate
 
-These questions of course provide _some_ insight - how a candidate thinks through a problem, are they comfortable with ambiguity, etc. Evaluating candidates responses to these exercises isn't very efficient, but it can be very effective to uncover some red flags and get a better sense of the person as a whole. But there's always been one area that I've felt is woefully undervalued: **how a candidate manages their time**. 
+These questions of course provide _some_ insight - how a candidate thinks through a problem, are they comfortable with ambiguity, can they think on their feet, etc. Evaluating candidates responses to these exercises isn't very efficient, but it can be very effective to uncover some red flags and get a better sense of the person as a whole. But companies don't pay people for each brilliant idea or project led. Salaried jobs are primarily compensated by performance over a set amount of time, where time is often one or two pay periods. Yes interviewers should get a sense for a candidate's performance (how well will they do a given job), but the reality for most office jobs is 
 
-In most salaried jobs, you're not paying for each brilliant idea or project led. You are paying them strictly for their performance  time. 
+Companies do this because most salaried jobs But there's always been one area that I've felt is woefully undervalued: **how a candidate manages their time**. 
 
 one area that is overlooked is how a candidate manages their time. 
+
+![packed calendar](/images/uploads/sociablescientistcalendar.png "http://thesociablescientist.com/making-plans-letting-go/")
+
+
+
+
 
 While interviewing candidates at Citigroup and GitHub, I came up with an exercise tha
