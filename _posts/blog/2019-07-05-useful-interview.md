@@ -1,27 +1,25 @@
 ---
-title: The most valuable interview question
+title: The most valuable interview question you're not asking
 date: 2019-07-05T17:12:34.557Z
 featured_image: /images/uploads/jon-tyson-flhdnpo6dlw-unsplash.jpg
 excerpt: >-
   For genuine insights into your interview candidates, ask them to do a time
   management exercise.
 ---
-# Why most interview questions suck
+Interviewing is one of the most archaic systems used in business. On its face, it seems quite logical - talk to prospective employees before they join your company. Great! But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers you still need to ask good questions to get real insights. 
 
-Interviewing is one of the most archaic systems used in business. On its face, it seems quite logical - talk to prospective employees before they join your company. Great! But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers you still need to ask good questions to get real insights. When personally interviewing candidates, I always got the same slate of generic interview questions that had been committee approved. These questions made it efficient to compare responses across multiple candidates, or put it another way... it was optimized for the hiring coordinators (not the company or the candidate). The Technology industry does a slightly better job here with on-the-spot exercises. However well intentioned, these can range from the [inane](https://twitter.com/mxcl/status/608682016205344768) to the [absurd](https://www.cnbc.com/id/100371504).
+## Why most interview questions suck
 
-> "Say Peter Pepper Picked a Pickled Pepper and cross-sell a washing machine at the same time?" – Asked by MasterCard to a call center candidate
+When personally interviewing candidates, I always got the same slate of generic interview questions that had been committee approved. These questions made it efficient to compare responses across multiple candidates, or put it another way... it was optimized for the hiring coordinators (not the company or the candidate). The Technology industry does a slightly better job here with on-the-spot exercises. However well intentioned, these can range from the [inane](https://twitter.com/mxcl/status/608682016205344768) to the [absurd](https://www.cnbc.com/id/100371504).
 
-These questions of course provide _some_ insight - how a candidate thinks through a problem, are they comfortable with ambiguity, can they think on their feet, etc. Evaluating candidates responses to these exercises isn't very efficient, but it can be very effective to uncover some red flags and get a better sense of the person as a whole. But companies don't pay people for each brilliant idea or project led. Salary jobs are compensated by job performance for a set number of hours (40/week). Naturally, interviewers have focused on a candidate's performance (how well will he/she do a given job), but that ignores half of the equation. The most overlooked interview questions answers **how well a candidate manages their time.** 
+> "Say 'peter pepper picked a pickled pepper' and cross sell me this washing machine at the same time" – MasterCard interviewer
 
-Companies do this because most salaried jobs But there's always been one area that I've felt is woefully undervalued: **how a candidate manages their time**. 
-
-one area that is overlooked is how a candidate manages their time. 
+These questions of course provide _some_ insight - how a candidate thinks through a problem, are they comfortable with ambiguity, can they think on their feet, etc. Evaluating candidates responses to these exercises isn't very efficient, but it can be very effective to uncover some red flags and get a better sense of the person as a whole. But companies don't pay people for each brilliant idea or project led. Salary jobs are compensated by job performance for a set number of hours (40/week). Naturally, interviewers have focused on a candidate's performance (how well will he/she do a given job), but that ignores half of the equation. You're not judged on doing one job very well - but multiple jobs well enough. Those 40 hours are filled with 1:1s, project updates, internal meetings, and so many other demands for time. In addition to performance questions, the most valuable interview question answers **how well a candidate manages their time.** 
 
 ![packed calendar](/images/uploads/sociablescientistcalendar.png "http://thesociablescientist.com/making-plans-letting-go/")
 
 
 
+## An exercise to gauge time management
 
-
-While interviewing candidates at Citigroup and GitHub, I came up with an exercise tha
+Time management is an especially hard to judge in the compressed interview setting. Lots of companies opt for a
