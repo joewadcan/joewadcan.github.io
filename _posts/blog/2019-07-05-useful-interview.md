@@ -6,21 +6,25 @@ excerpt: >-
   For genuine insights into your interview candidates, ask them to do a time
   management exercise.
 ---
-Interviewing is one of the most archaic systems used in business. On its face, it seems quite logical - talk to prospective employees before they join your company. Great! But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers you still need to ask good questions to get real insights. 
+I recently did a round of interviewing with a startup and it reminded me of how barely useful the typical interview process is. On its face, it seems so logical - talk to prospective employees before they join your company, duh!  But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers without useful insightful questions the whole process is a wasted opportunity. 
 
-## Most interview questions suck
+## Interview questions suck
 
-When personally interviewing candidates, I always got the same slate of generic interview questions that had been committee approved. These questions made it efficient to compare responses across multiple candidates, or put it another way... it was optimized for the hiring coordinators (not the company or the candidate). The Technology industry does a slightly better job here with on-the-spot exercises. However well intentioned, these can range from the [inane](https://twitter.com/mxcl/status/608682016205344768) to the [absurd](https://www.cnbc.com/id/100371504).
+When I would interview candidates for my previous, I got the same ol' generic question bank that had been committee approved. These questions made it efficient to compare responses across multiple candidates... which really means it was optimized for the hiring coordinators (not the company or the candidate). The Technology industry does a slightly better job here with on-the-spot exercises, but these can range from the [inane](https://twitter.com/mxcl/status/608682016205344768) to the [absurd](https://www.cnbc.com/id/100371504).
 
 > "Say 'peter pepper picked a pickled pepper' and cross sell me this washing machine" – MasterCard
 
-These questions of course provide _some_ insight - how a candidate thinks through a problem, are they comfortable with ambiguity, can they think on their feet, etc. Evaluating candidates responses to these exercises isn't very efficient, but it can be very effective to uncover some red flags and get a better sense of the person as a whole. But companies don't pay people for each brilliant idea or project led. Salary jobs are compensated by job performance for a set number of hours (40/week). Naturally, interviewers have focused on a candidate's performance (how well will he/she do a given job), but that ignores half of the equation. You're not judged on doing one job very well - but multiple jobs well enough. Those 40 hours are filled with 1:1s, project updates, internal meetings, and so many other demands for time. In addition to performance questions, the most valuable interview question answers **how well a candidate manages their time.** 
+The most useful interview questions probe into how a candidate thinks through a problem. Are they comfortable with ambiguity, can they think on their feet, value diverse opinions etc. This is common knowledge yet still rarely used. It's simply faster and easier for interviewers to just "wing it" and ask the first questions that come your head. Great, have fun with that low employee retention rate! 
 
-![packed calendar](/images/uploads/sociablescientistcalendar.png "http://thesociablescientist.com/making-plans-letting-go/")
+Alright, so if you're on-board with the idea of a problem-solving exercise, what can you actually do? Lots of office jobs require context and wouldn't fit into a neatly solvable puzzle for candidates. So here's my pitch... don't bother judge how well they'll do the job! Ver
 
-## Gauge time management
+Instead, dig into how they'll handle ALL the jobs they'll need to juggle in the role. 
 
-Time management is especially hard to judge in the compressed interview setting. Of course you can ask the candidate how they manage their time, but I've found a short exercise can provides much deeper insights. Here's the exercise I came up with and used at Citigroup and GitHub. 
+, but that ignores a massive logical. You're not judged on doing one job very well - but multiple jobs well enough. Those 40 hours are filled with 1:1s, project updates, internal meetings, and so many other demands for time. In addition to performance questions, the most valuable interview question answers **how well a candidate manages their time.** 
+
+## THE interview exercise
+
+Ask about Time management is especially hard to judge in the compressed interview setting. Of course you can ask the candidate how they manage their time, but I've found a short exercise can provides much deeper insights. Here's the exercise I came up with and used at Citigroup and GitHub. 
 
 * **Step 1:** Create a time-bound scenario (typical 8 hour day)
 * **Step 2:** Provide a list of required tasks, totaling 16 hours
