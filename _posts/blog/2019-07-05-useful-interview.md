@@ -27,9 +27,9 @@ Instead, dig into how they'll handle ALL the jobs they'll need to juggle in the 
 Ask about Time management is especially hard to judge in the compressed interview setting. Of course you can ask the candidate how they manage their time, but I've found a short exercise can provides much deeper insights. Here's the exercise I came up with and used at Citigroup and GitHub. 
 
 * **Step 1:** Create a time-bound scenario (typical 8 hour day)
-* **Step 2:** Provide a list of required tasks, totaling 16 hours
+* **Step 2:** Provide a list of required tasks, totaling 16 hours+
 * **Step 3:** Ask candidates to order tasks for their hypothetical day
-* **Step 4:** Review candidate's rationale for their choices
+* **Step 4:** Discuss the candidate's rationale for their choices
 
 Candidates are forced to make some tradeoffs, as they would in any job with real world constraints. This scenario has no right answers as it doesn't really matter what a candidate picks. However, there's lots of valuable insight from talking through _why_ the candidate made their choices. Here's a bit more depth on how to run this exercise yourself: 
 
@@ -39,12 +39,12 @@ Give the candidate background on what the exercise will be and why it's useful. 
 
 **Step 2: Provide a list of required tasks with time estimates**
 
-Here's where you'll want to prep a list of tasks and their time estimates. You can write this on a white board, but I've found it to be much easier to just print this out and hand it to the candidate to review for a few minutes. The tasks can be generic or specific, but it's useful to denote importance as best you can. Here's a downloadable copy for you to customize. 
+Here's where you'll want to prep a list of tasks and their time estimates. You can write this on a white board, but I've found it to be much easier to just print this out and hand it to the candidate. The tasks should be specific, so the tradeoff feels real. You'll also want to include tasks of differing lengths and commitment. [Here's a ready-to-go spreadsheet with sample questions, review topics, and follow up questions. ](http://bit.ly/interview-joewadcan) Of course, you should tweak the tasks to reflect your company, industry, and role. 
 
 **Step 3: Ask the candidate to choose and order the tasks**
 
-Give the candidate background on what the exercise will be and why it's useful. I've found it easiest to hand the candidate a piece of paper that has all the details written out. You can hand this to them. 
+I suggest having a hard limit on the time a candidate has to choose and order the tasks. It's not a brain teaser to fit in everything, since that's clearly impossible. Five minutes is usually enough time to read and make some quick decisions. If you add lots of tasks, you might want to increase the time allowed, but not by much. It's easy for candidates to shift into seeing this as an "optimization" puzzle they need to cram more into. 
 
 **Step 4: Review candidate's rationale for their choices**
 
-Give the candidate background on what the exercise will be and why it's useful. I've found it easiest to hand the candidate a piece of paper that has all the details written out. You can hand this to them.
+The spreadsheet has some useful followup questions. I've really loved asking "if you magically had an extra hour of time, what would you change?". The sample also includes some themes to look out for, like if they choose tasks with their team, or their boss, or if the interviewee keeps all their existing time commitments or they break them. There's obviously many ways to look at the choices, so it's useful for interviewers to record the candidates choices and their discussion topics.
