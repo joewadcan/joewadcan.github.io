@@ -2,7 +2,7 @@
 title: 'Sales for Startups'
 subtitle: 'Explore Sales team structures and tactics'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/demo-landscape.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
@@ -11,7 +11,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 The Sales for Startups is a fundamental course of how sales works, from the early stages to mature sales teams. Every student of business should understand the basics of how revenue is generated and responsibly grown. During the course, we’ll cover core topics such as getting the first sale, building an initial sales team, creating commission structures, classic sales techniques, the art of negotiation, and structuring sales team to succeed. Often called “business development” we’ll also dive into the tools and processes used by entrepreneurs today. In addition, we’ll highlight several existing startups to understand the real-world decisions faced by founders through guest speakers.
 
-> “Sales for Startups was a super interesting look into an area I've tried to avoid as a founder.”
+> “Sales for Startups was an great deep dive into an area I've tried to avoid as a founder.”
 
 ---
 
