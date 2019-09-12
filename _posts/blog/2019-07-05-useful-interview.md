@@ -10,7 +10,7 @@ I recently did a round of interviewing with a startup and it reminded me of how 
 
 ## Interview questions suck
 
-As an interviewee, you'll often get the same ol' generic questions that had been committee approved. These questions make it easy to compare responses across multiple candidates... which really means it was optimized for the hiring coordinators (not the company or the candidate). Besides the brain teasers and generic "favorite album" type questions the [inane](https://twitter.com/mxcl/status/608682016205344768) and [absurd](https://www.cnbc.com/id/100371504) questions don't really provide much insight.
+As an interviewee, you'll often get the same ol' generic questions that had been committee approved. These questions make it easy to compare responses across multiple candidates... which really means it was optimized for the hiring coordinators (not the company or the candidate). The littany of brain teasers and "favorite album"  questions barely tell you anything about the candidate, not to mention the [inane](https://twitter.com/mxcl/status/608682016205344768) and [absurd](https://www.cnbc.com/id/100371504) questions that are basically just an interviewer flex.
 
 > "Say 'peter picked a pepper' and cross sell me this washing machine" – MasterCard
 
