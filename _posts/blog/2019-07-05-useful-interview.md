@@ -1,5 +1,5 @@
 ---
-title: Ask about TIME in your next interview
+title: Ask about TIME in your interview
 date: 2019-07-05T17:12:34.557Z
 featured_image: /images/uploads/jon-tyson-flhdnpo6dlw-unsplash.jpg
 excerpt: >-
