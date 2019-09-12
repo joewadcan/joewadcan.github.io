@@ -6,7 +6,7 @@ excerpt: >-
   For genuine insights into your interview candidates, stop asking generic
   questions and do a time management exercise.
 ---
-I recently did a round of interviewing with a startup and it reminded me of how broken the typical interview process is. On its face, it seems so logical - talk to prospective employees before they join your company, duh!  But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers without useful insightful questions the whole process is a wasted opportunity. 
+I recently did a round of interviewing with a startup and it reminded me of how broken the typical interview process is. On its face, it seems so easy - talk to prospective employees and pick the one you like the best, duh!  But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers without useful insightful questions the whole process can be a wasted opportunity. As someone who considers calendar-invites a love language I came up with an interesting exercise to gauge candidates on how they view time. 
 
 ## Interview questions suck
 
@@ -47,6 +47,6 @@ The [spreadsheet](http://bit.ly/interview-joewadcan) has some useful followup qu
 
 ## Does this work? 
 
-In my experience, this was a great exercise to learn more about how candidates think. Plus it's not a question you can rehearse diplomatic answers to... in the real world there are choices and those choices have consequences. 
+In my experience, this was a great exercise to learn more about how candidates think. Plus it's not a question you can rehearse diplomatic answers to... each exercise will be different. And there isn't a "middle of the road" choice here, by picking one thing you're implicitly leaving out another. 
 
-I've even tried this exercise with teams of people and it is a bit chaotic, but it's also a big learning opportunity. With a group observer you'll notice how people make their case and find resolution amongst a group of peers, which isn't always smooth. In general, I hope you try out this exercise in your next hiring cohort and share what tasks/tweaks you've made - good luck!
+I've even tried this exercise with teams of people and it is a bit chaotic, but it's also a big learning opportunity. With a group observer you'll notice how people make their case and find resolution amongst a group of peers (break out the popcorn)! In general, I hope you try out this exercise in your next hiring cohort and share what tasks/tweaks you've made - good luck!
