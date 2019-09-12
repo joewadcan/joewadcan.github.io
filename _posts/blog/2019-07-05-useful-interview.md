@@ -6,7 +6,7 @@ excerpt: >-
   For genuine insights into your interview candidates, stop asking generic
   questions and do a time exercise.
 ---
-I recently did a round of interviewing with a startup and it reminded me of how broken the typical interview process is. On its face, it seems so easy - talk to prospective employees and pick the one you like the best, duh!  But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers without useful insightful questions the whole process can be a wasted opportunity. As someone who considers calendar-invites a love language I came up with an interesting exercise to gauge candidates on how they view time. 
+I recently did a round of interviewing with a startup and it reminded me of how broken the typical interview process is. On its face, it seems so easy - talk to prospective employees and pick the one you like the best, duh!  But even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers without useful insightful questions the whole process can be a wasted opportunity. As someone who believe that calendar-invites are a love language, of course I came up with an interesting exercise to gauge candidates on how they view time. 
 
 ## Interview questions suck
 
@@ -45,8 +45,8 @@ I suggest having a hard limit on the time a candidate has to choose and order th
 
 The [spreadsheet](http://bit.ly/interview-joewadcan) has some useful followup questions. I've really loved asking "if you magically had an extra hour of time, what would you change?". The sample also includes some themes to look out for, like if they choose tasks with their team, or their boss, or if the interviewee keeps all their existing time commitments or they break them. There's obviously many ways to look at the choices, so it's useful for interviewers to record the candidates choices and their discussion topics. 
 
-## Does this work? 
+## Does this work?
 
-In my experience, this was a great exercise to learn more about how candidates think. Plus it's not a question you can rehearse diplomatic answers to... each exercise will be different. And there isn't a "middle of the road" choice here, by picking one thing you're implicitly leaving out another. 
+In my experience, this was a great exercise to learn more about how candidates think. Plus it's not a question you can rehearse diplomatic answers to... each exercise will be different and each choice made implicitly leaves something out. I've even tried this exercise with teams of people and it is a bit chaotic, but it's also a big learning opportunity. With a group observer you'll notice how people make their case and come to a resolution that they might not agree with. Not unlike the day-to-day decisions made about projects to tackle or which to cut.  
 
-I've even tried this exercise with teams of people and it is a bit chaotic, but it's also a big learning opportunity. With a group observer you'll notice how people make their case and find resolution amongst a group of peers (break out the popcorn)! In general, I hope you try out this exercise in your next hiring cohort and share what tasks/tweaks you've made - good luck!
+As someone who is running their [third calendar startup](https://geteventbot.com/), I think about time alot. Hopefully this helps you use your time better in your next interview.  - Joe
