@@ -2,10 +2,10 @@
 title: 'Intro to Code'
 subtitle: 'A broad look at programming for non-technical folks'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/demo-landscape-2.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/demo-landscape-2.jpg)
 
 ## What is Intro to Code?
 
