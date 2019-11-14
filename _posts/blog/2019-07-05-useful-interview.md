@@ -1,12 +1,12 @@
 ---
-title: Ask about TIME in your interview
+title: Time management interviewing
 date: 2019-11-13T18:12:34.557Z
 featured_image: /images/uploads/jon-tyson-flhdnpo6dlw-unsplash.jpg
 excerpt: >-
-  For genuine insights into your interview candidates, stop asking generic
-  questions and do a time exercise.
+  For deeper insights into prospective hires, do a time management exercise with
+  your candidates.
 ---
-I recently did some interviewing and it was a reminder of how time-constrained the typical interview process is. A few hours (at most) is such a small amount of time to get to know a candidate well! Even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers ... bad interview questions can miss super important signals. A while back I came up with an exercise to gauge candidates based on how they viewed time - hopefully it will be useful to you too! 
+I recently did some interviewing and it was a reminder of how time-constrained the typical interview process is. A few hours (at most) is such a small amount of time to get to know a candidate well. Even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers ... bad interview questions can miss super important signals! A while back I came up with an exercise to gauge candidates based on how they viewed time - hopefully it will be useful to you too! 
 
 ## Interview questions suck
 
@@ -47,8 +47,8 @@ The [spreadsheet](http://bit.ly/interview-joewadcan) has some useful followup qu
 
 ## Does this work?
 
-In my experience, this was a great exercise to learn more about how candidates think. Plus it's not a question you can rehearse diplomatic answers to... as each choice implicitly deprioritizes the rest of the options. I've also tried this exercise with a team of people and it is a bit chaotic, but it's also a big learning opportunity. With a group observer you'll notice how people argue, disagree, and ultimate come to a resolution. This mirrors real life decisions that employees make everyday implicitly when they book meetings/work on their calendar.  
+In my experience, this was a great exercise to learn more about how candidates think. Plus it's not a question you can rehearse diplomatic answers to... since each choice implicitly de-prioritizes the rest of the options. I've also tried this exercise with a team of people and it is a bit chaotic, but also a big learning opportunity. As a group observer you'll notice how people argue, disagree, and ultimate come to a resolution. This mirrors real life decisions that employees make everyday with their own time and preferences.
 
-As someone who is running their [fourth calendar startup](https://geteventbot.com/), I think hard about how we use our time. Hopefully this provides more value for your time spent interviewing. 
+As someone who is running their [fourth calendar startup](https://geteventbot.com/), I think hard about how time gets spent so hopefully this provides more value for your time spent interviewing. 
 
 * Joe Wadcan
