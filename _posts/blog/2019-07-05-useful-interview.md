@@ -6,9 +6,9 @@ excerpt: >-
   For deeper insights into prospective hires, do a time management exercise with
   your candidates.
 ---
-I recently did some interviewing and it was a reminder of how time-constrained the typical interview process is. A few hours (at most) is such a small amount of time to get to know a candidate well. Even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers ... bad interview questions can miss super important signals! A while back I came up with an exercise to gauge candidates based on how they viewed time - hopefully it will be useful to you too! 
+I recently did some interviewing and it was a reminder of how time-constrained the typical interview process is. A few hours (at most) is such a small amount of time to get to know a candidate well. Even if you do [all the right things](https://medium.com/eqtventures/top-tips-for-startup-interviews-not-for-the-candidate-for-you-6339503ea133) and have diverse, well-trained, empathetic interviewers ...  interview questions can miss super important signals! A while back I came up with an exercise to gauge candidates based on how they viewed time - hopefully it will be useful to you too! 
 
-## Interview questions suck
+## Most interview questions suck
 
 As an interviewee, you'll always get the generic, committee-approved questions. These questions make it easy to compare responses across multiple candidates... which is really optimized for the hiring coordinator (not the candidate). You might also face the odd brain teaser or "favorite album"  questions which don't really tell you about the candidate. Hopefully you won't encounter the [inane](https://twitter.com/mxcl/status/608682016205344768) and [absurd](https://www.cnbc.com/id/100371504) questions that are basically just interviewers wasting time.
 
