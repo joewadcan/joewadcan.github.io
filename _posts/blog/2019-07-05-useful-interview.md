@@ -18,6 +18,8 @@ The most useful interview questions probe into how a candidate thinks through a 
 
 Some roles, like in programming or engineering will lend itself to white boarding a solution. But what about more typical management or project roles? They require context that wouldn't fit into a neatly solvable puzzle for candidates. So I propose giving candidates an exercise that isn't about how well they can perform one job... but how they juggle multiple jobs at once. Since most 40-hour weeks are filled with 1:1s, project updates, internal meetings and a dizzying number of time constraints. I'm proposing **an interview question that answers** **how well a candidate manages their time.** 
 
+<center><img src="https://media.giphy.com/media/1XdfVRTyn5d31Q1lG0/giphy-downsized.gif" width=40%></center>
+
 ## A simple time exercise
 
 So how do you actually judge time management? Here's the exercise I came up with and used while I was hiring at Citigroup and GitHub: 
