@@ -10,17 +10,17 @@ I recently did some interviewing and it was a reminder of how time-constrained t
 
 ## Interview questions suck
 
-As an interviewee, you'll often get generic, committee-approved questions. These questions make it easy to compare responses across multiple candidates... which really means it was optimized for the hiring coordinators (not the candidate). In addition, you'll also face the odd brain teasers or "favorite album"  questions whic don't really tell you about the candidate, not to mention the [inane](https://twitter.com/mxcl/status/608682016205344768) and [absurd](https://www.cnbc.com/id/100371504) questions that are basically just an interviewer flex.
+As an interviewee, you'll always get the generic, committee-approved questions. These questions make it easy to compare responses across multiple candidates... which is really optimized for the hiring coordinator (not the candidate). You might also face the odd brain teaser or "favorite album"  questions which don't really tell you about the candidate. Hopefully you won't encounter the [inane](https://twitter.com/mxcl/status/608682016205344768) and [absurd](https://www.cnbc.com/id/100371504) questions that are basically just interviewers wasting time.
 
 > "Repeat 'peter picked a pepper' and cross sell me this washing machine"
 
-The most useful interview questions probe into how a candidate thinks through a problem. Are they comfortable with ambiguity, can they think on their feet, value diverse opinions? It's hard to extract from a candidate, and usually interviewers have limited time so default to "winging it" and just ask the first questions that come to mind. Instead, a problem-solving exercise, can expose these more valuable traits.
+The most useful interview questions probe into how a candidate thinks through a problem. Are they comfortable with ambiguity, can they think on their feet, value diverse opinions? It's hard to extract from a candidate, and usually interviewers have limited time but a problem-solving exercise can expose these more valuable traits.
 
-Some roles, like in programming or engineering will lend itself to white boarding a solution. What what about more typical management or project roles? They require context that wouldn't fit into a neatly solvable puzzle for candidates. So I propose giving candidates an exercise that isn't about how well they can perform one job... but how they juggle multiple jobs at once. Most 40-hour weeks are filled with 1:1s, project updates, internal meetings, conference calls, and a dizzying number of time constraints. I'm proposing an interview question that answers **how well a candidate manages their time.** 
+Some roles, like in programming or engineering will lend itself to white boarding a solution. But what about more typical management or project roles? They require context that wouldn't fit into a neatly solvable puzzle for candidates. So I propose giving candidates an exercise that isn't about how well they can perform one job... but how they juggle multiple jobs at once. Since most 40-hour weeks are filled with 1:1s, project updates, internal meetings and a dizzying number of time constraints. I'm proposing **an interview question that answers** **how well a candidate manages their time.** 
 
 ## A simple time exercise
 
-So how do you actually judge time management? Here's the exercise I came up with and used while hiring at Citigroup and GitHub: 
+So how do you actually judge time management? Here's the exercise I came up with and used while I was hiring at Citigroup and GitHub: 
 
 * **Step 1:** Create a time-bound scenario (typical 8 hour day)
 * **Step 2:** Provide a list of required tasks, totaling 16 hours+
