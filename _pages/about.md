@@ -7,6 +7,12 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ## Short Bio
 
-I do lots of things! Currently, I'm Head of Partnerships at [Flockjay](https://flockjay.com/about) which helps underrepresented folks break into the tech industry, via sales training. I also founded [Eventbot](https://geteventbot.com/) which is a native calendar for Slack. Additionally, I teach at UC Berkeley where I focus specifically on [programming and sales for startups](https://joe.wadcan.com/projects/). Years ago, I lead Business Development at GitHub, after serving as one it's first Enterprise Sales reps. If you can't tell already, I like the mix of technology and business! 
+I do lots of things! Currently, I'm Head of Partnerships at [Flockjay](https://flockjay.com/about) which helps underrepresented folks break into the tech industry, via sales training. 
 
-I also [invest in early stage startups](https://angel.co/joe-wadcan) and really enjoy mentoring underrepresented founders. If you'd like to chat, just send me [a note](https://joe.wadcan.com/contact) and we can grab a taco in the Mission district! 🌮 😃
+I also founded and run [Eventbot](https://geteventbot.com/) which is a native calendar for Slack. This is my fourth calendar startup 💖
+
+Additionally, I teach at UC Berkeley where I lead two courses ["Intro to Code" and "Sales for Startups"](https://joe.wadcan.com/projects/). I've taught at Berkeley for eight years now, and really enjoying giving back to my alma mater!
+
+Years ago, I led Business Development at GitHub, after serving as one it's first Enterprise Sales reps. If you can't tell already, I like the mix of technology and business! 
+
+One of the most satisfying things I do is [invest in early stage startups](https://angel.co/joe-wadcan) and specifically enjoy mentoring underrepresented founders. If you'd like to chat, just send me [a note](https://joe.wadcan.com/contact) and we can grab a taco in the Mission district! 🌮 😃
