@@ -5,8 +5,6 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/uploads/code-background.jpg'
 ---
 
-![](/images/uploads/code-background.jpg)
-
 ## What is Intro to Code?
 
 At its core, the Introduction to Code course helps students communicate effectively with technical colleagues. Students are taught the industry-standard vocabulary, tools, and processes used by developers today. The course focuses on breadth instead of depth, which provides a strong value to any student who wants to speak with confidence in technical companies. Topics include, programming tools, sharing code in teams, how data is stored and used, connecting software together, mobile app development, website analytics, and much more. We'll also spend time with Product Managers in industry as they share their story of working in technical teams. 
