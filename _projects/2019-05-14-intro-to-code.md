@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/uploads/code-background.jpg'
 ---
 
-![](/images/demo/demo-landscape-2.jpg)
+![](/images/uploads/code-background.jpg)
 
 ## What is Intro to Code?
 
