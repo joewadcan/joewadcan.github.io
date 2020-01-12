@@ -2,7 +2,7 @@
 title: 'Intro to Code'
 subtitle: 'A broad look at programming for non-technical folks'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-landscape-2.jpg'
+featured_image: '/images/uploads/code-background.jpg'
 ---
 
 ![](/images/demo/demo-landscape-2.jpg)

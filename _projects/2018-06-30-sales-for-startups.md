@@ -2,10 +2,10 @@
 title: 'Sales for Startups'
 subtitle: 'Explore Sales team structures and tactics'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-landscape.jpg'
+featured_image: '/images/uploads/sales-background.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/uploads/sales-background.jpg)
 
 ## What is Sales for Startups?
 
