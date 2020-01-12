@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Joe Wadcan 🛶 
-  site_tagline: A new perspective on systems 
+  site_tagline: Time, well spent.
   favicon_image: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/canoe_1f6f6.png
 
 header_settings:
@@ -25,7 +25,7 @@ grid_settings:
 contact_settings:
   form_action: 'https://formspree.io/joe@wadcan.com'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
+  email_subject: 'Someone wants to gab!'
   send_button_text: 'Send Message'
 
 social_settings:
@@ -46,7 +46,7 @@ social_settings:
   dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
-  github_url: ''
+  github_url: 'https://github.com/joewadcan'
   reddit_url: ''
   flickr_url: ''
   etsy_url: ''
