@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ## Short Bio
 
-I do lots of things! Currently, I'm Head of Partnerships at [Flockjay](https://flockjay.com/about) which helps underrepresented folks break into the tech industry, via sales training. 
+I do lots of things! Currently, I'm working on some interesting voter tech for the Nov 2020 elections. 
 
 I also founded and run [Eventbot](https://geteventbot.com/) which is a native calendar for Slack. This is my fourth calendar startup 💖
 
