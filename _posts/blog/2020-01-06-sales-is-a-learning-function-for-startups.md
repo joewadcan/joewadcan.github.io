@@ -1,6 +1,6 @@
 ---
 title: Sales is a learning function for startups
-date: 2020-01-06T15:37:43.371Z
+date: 2020-04-23T17:13:32.835Z
 featured_image: /images/uploads/geran-de-klerk-uykdjeynwsm-unsplash.jpg
 excerpt: Sales is the feedback loop startups use to find their way to
   product/market fit.
@@ -20,6 +20,7 @@ The **reason** you lose a prospect, is just as valuable as the revenue you would
 >  Sales gives you a kind of harsh feedback that “marketing” doesn’t.
 
 Humans, especially optimist-wired founders, are loathe to hear why their startup/idea/life choice doesn't work. However, the best founders maintain their future reality distortion bubble, but are grounded enough in the present to admit when their approach is off and experiment. Even roombas learn when they bump into an obstacle. As a founder you should be slightly smarter than a roomba. To get your startup to "default alive" treat Sales like a learning function and move closer to ending your search. \
+\
 \
 Joe Wadcan
 
