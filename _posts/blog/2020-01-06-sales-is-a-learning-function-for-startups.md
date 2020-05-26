@@ -1,11 +1,11 @@
 ---
 title: Sales is a learning function for startups
-date: 2020-04-23T17:13:32.835Z
+date: 2020-05-26T01:02:38.240Z
 featured_image: /images/uploads/geran-de-klerk-uykdjeynwsm-unsplash.jpg
 excerpt: Sales is the feedback loop startups use to find their way to
   product/market fit.
 ---
-The best definition of a startup I've seen comes from Steve Blank. In his oft-quoted words, "Startups aren't little versions of big companies. A startup is a search for a repeatable, scalable business model". I like it because it emphasizes repeatable \*before\* scalable. As a founder who's failed a few startups, I have the scars that come from trying to scale something before proving a repeatable business model. A repeatable business model gives you time as it switches your company trajectory from "default dead" to "default alive". \
+The best definition of a startup I've seen comes from Steve Blank. In his oft-quoted words, "Startups aren't little versions of big companies. A startup is a search for a repeatable, scalable business model". I like it because it emphasizes repeatable \*before\* scalable. I've failed numerous times as a founder, so my scars from not following this advice are all to real. A repeatable business model gives you time as it switches your company trajectory from "default dead" to "default alive". \
 \
 I'm convinced that the path to "default alive" runs straight through the Sales function at the startup. Especially at the early stages of a startup, I'd argue Sales is **the most valuable** activity a startup will do. Why? Because it's the only time your hypothesis confronts reality! As a founder, you'll want to wait until you're "ready" to sell. AKA you don't want to get your own feelings hurt when a prospect says no. But Sales isn't just how you keep the business going afloat, it's the feedback mechanism for your entire approach. \
 \
