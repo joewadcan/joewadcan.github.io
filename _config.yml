@@ -1,0 +1,44 @@
+title: Joe Wadcan
+description: "Writing, teaching, and building."
+url: "" # Set to your GitHub Pages URL, e.g. https://joewadcan.github.io
+baseurl: "" # Set if hosted at a subpath, e.g. /repo-name
+author:
+  name: Joe Wadcan
+  twitter: joewadcan
+  linkedin: joewadcan
+
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+
+# Navigation (used by layout)
+navigation:
+  - title: About
+    url: /about-me/
+  - title: Experience
+    url: /experience/
+  - title: Writing
+    url: /
+  - title: Teaching
+    url: /teaching/
+  - title: Contact
+    url: /contact/
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-seo-tag

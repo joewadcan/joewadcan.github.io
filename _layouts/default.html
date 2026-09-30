@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | truncatewords: 50 }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+
+  <div class="top-bar"></div>
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <div class="header-brand">
+        <div class="header-icon">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M8 2 C8 2 4 6 4 10 C4 12.2 5.8 14 8 14 C10.2 14 12 12.2 12 10 C12 6 8 2 8 2Z" fill="#9ab848" opacity="0.8"/>
+            <line x1="8" y1="14" x2="8" y2="6" stroke="#f6f8f0" stroke-width="0.8"/>
+            <line x1="8" y1="9" x2="6" y2="7.5" stroke="#f6f8f0" stroke-width="0.6"/>
+            <line x1="8" y1="8" x2="10" y2="6.5" stroke="#f6f8f0" stroke-width="0.6"/>
+          </svg>
+        </div>
+        <a href="{{ '/' | relative_url }}" class="site-title">Joe Wadcan</a>
+      </div>
+      <nav class="site-nav">
+        {% for item in site.navigation %}
+          <a href="{{ item.url | relative_url }}"
+             {% if page.url == item.url %}class="active"{% endif %}>
+            {{ item.title }}
+          </a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main class="content-wrap">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span class="footer-left">Joe Wadcan &copy; {{ 'now' | date: "%Y" }}</span>
+      <span class="footer-right">
+        <span class="footer-dot" style="background:#336644"></span>
+        <span class="footer-dot" style="background:#9ab848"></span>
+        <span class="footer-dot" style="background:#b86a3a"></span>
+      </span>
+    </div>
+  </footer>
+
+  <div class="bottom-bar"></div>
+
+</body>
+</html>

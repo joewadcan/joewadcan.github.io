@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="page-header">
+  <div class="page-label">journal</div>
+  <h1 class="page-title">Latest</h1>
+  <p class="page-subtitle">Writing on time, startups, and teaching</p>
+</div>
+
+<div class="geo-divider"><span class="geo-divider__dots"><i></i><i></i><i></i></span></div>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}" class="post-card">
+        <div class="post-card__indicator"></div>
+        <div>
+          <div class="post-card__meta">
+            {{ post.date | date: "%b %-d, %Y" }} · {{ post.read_time | default: "4 min read" }}
+          </div>
+          <div class="post-card__title">{{ post.title }}</div>
+          {% if post.excerpt %}
+            <div class="post-card__excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</div>
+          {% endif %}
+        </div>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
