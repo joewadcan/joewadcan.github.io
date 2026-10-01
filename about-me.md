@@ -4,7 +4,7 @@ title: About Me
 permalink: /about-me/
 ---
 
-<img class="about-profile" src="https://joe.wadcan.com/content/images/2022/07/JoeWadcanProfile.png" alt="Joe Wadcan">
+<img class="about-profile" src="/assets/images/profile.png" alt="Joe Wadcan">
 
 **TL/DR:** I lead Corp Dev at Phantom, teach at UC Berkeley, advise startup founders, and know way too much about calendars.
 
